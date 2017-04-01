@@ -1,0 +1,10 @@
+diff --git vendor/gopkg.in/robfig/cron.v2/spec.go.orig vendor/gopkg.in/robfig/cron.v2/spec.go
+index 3dfd3e0..a81c219 100644
+--- vendor/gopkg.in/robfig/cron.v2/spec.go.orig
++++ vendor/gopkg.in/robfig/cron.v2/spec.go
+@@ -116,3 +116,4 @@ WRAP:
+ 			added = true
+-			t = t.Truncate(time.Hour)
++			// t = t.Truncate(time.Hour)
++			t = time.Date(t.Year(), t.Month(), t.Day(), t.Hour(), 0, 0, 0, s.Location)
+ 		}
