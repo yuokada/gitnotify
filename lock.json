@@ -1,0 +1,194 @@
+{
+    "memo": "a482c5319aedf66cb2aaae26d311011f86be39b82c42f1c09d0a22cd58dbf421",
+    "projects": [
+        {
+            "name": "github.com/aryann/difflib",
+            "branch": "master",
+            "revision": "a1a4dd44eb11820695fbe83e00fb2301ee6eb54c",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/boltdb/bolt",
+            "branch": "master",
+            "revision": "e9cf4fae01b5a8ff89d0ec6b32f0d9c9f79aefdd",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/golang/protobuf",
+            "branch": "master",
+            "revision": "2bba0603135d7d7f5cb73b2125beeda19c09f4ef",
+            "packages": [
+                "proto"
+            ]
+        },
+        {
+            "name": "github.com/google/go-github",
+            "branch": "master",
+            "revision": "12363ffc10018c93407ebf303040586d55957271",
+            "packages": [
+                "github"
+            ]
+        },
+        {
+            "name": "github.com/google/go-querystring",
+            "branch": "master",
+            "revision": "53e6ce116135b80d037921a7fdd5138cf32d7a8a",
+            "packages": [
+                "query"
+            ]
+        },
+        {
+            "name": "github.com/gorilla/context",
+            "version": "v1.1",
+            "revision": "1ea25387ff6f684839d82767c1733ff4d4d15d0a",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/gorilla/mux",
+            "branch": "master",
+            "revision": "599cba5e7b6137d46ddf58fb1765f5d928e69604",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/gorilla/securecookie",
+            "version": "v1.1",
+            "revision": "667fe4e3466a040b780561fe9b51a83a3753eefc",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/gorilla/sessions",
+            "branch": "master",
+            "revision": "ba78acc856fe7c79891d516131b3d903cc8d9367",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/markbates/goth",
+            "version": "v1.38.0",
+            "revision": "488a04ae13f57b10e55e1a32c8cd62f9cc66c671",
+            "packages": [
+                ".",
+                "gothic",
+                "providers/github",
+                "providers/gitlab"
+            ]
+        },
+        {
+            "name": "github.com/sairam/kinli",
+            "branch": "master",
+            "revision": "7e5a4d257282d5adeb6bbd241081fc629af0bf6f",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/sairam/timezone",
+            "branch": "master",
+            "revision": "521d81b766d53a2f83be225815379bc8445c4bd5",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/spf13/cast",
+            "version": "v1.0.0",
+            "revision": "ce135a4ebeee6cfe9a26c93ee0d37825f26113c7",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/xanzy/go-gitlab",
+            "branch": "master",
+            "revision": "3b48c44f1005042285a9e1f31a0064f2effac4c1",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "golang.org/x/net",
+            "branch": "master",
+            "revision": "ffcf1bedda3b04ebb15a168a59800a73d6dc0f4d",
+            "packages": [
+                "context"
+            ]
+        },
+        {
+            "name": "golang.org/x/oauth2",
+            "branch": "master",
+            "revision": "7fdf09982454086d5570c7db3e11f360194830ca",
+            "packages": [
+                ".",
+                "internal"
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "branch": "master",
+            "revision": "9a7256cb28ed514b4e1e5f68959914c4c28a92e0",
+            "packages": [
+                "unix"
+            ]
+        },
+        {
+            "name": "google.golang.org/appengine",
+            "version": "v1.0.0",
+            "revision": "150dc57a1b433e64154302bdc40b6bb8aefa313a",
+            "packages": [
+                ".",
+                "internal",
+                "internal/app_identity",
+                "internal/base",
+                "internal/datastore",
+                "internal/log",
+                "internal/modules",
+                "internal/remote_api",
+                "internal/urlfetch",
+                "urlfetch"
+            ]
+        },
+        {
+            "name": "gopkg.in/alexcesaro/quotedprintable.v3",
+            "branch": "v3",
+            "revision": "2caba252f4dc53eaf6b553000885530023f54623",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "gopkg.in/gomail.v2",
+            "version": "2.0.0",
+            "revision": "41f3572897373c5538c50a2402db15db079fa4fd",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "gopkg.in/robfig/cron.v2",
+            "branch": "v2",
+            "revision": "be2e0b0deed5a68ffee390b4583a13aff8321535",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "gopkg.in/yaml.v2",
+            "branch": "v2",
+            "revision": "a3f3340b5840cee44f372bddb5880fcbc419b46a",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}

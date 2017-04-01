@@ -1,0 +1,40 @@
+{
+    "dependencies": {
+        "github.com/aryann/difflib": {
+            "branch": "master"
+        },
+        "github.com/boltdb/bolt": {
+            "branch": "master"
+        },
+        "github.com/google/go-github": {
+            "branch": "master"
+        },
+        "github.com/gorilla/mux": {
+            "branch": "master"
+        },
+        "github.com/gorilla/sessions": {
+            "branch": "master"
+        },
+        "github.com/markbates/goth": {
+            "branch": "master"
+        },
+        "github.com/sairam/kinli": {
+            "branch": "master"
+        },
+        "github.com/sairam/timezone": {
+            "branch": "master"
+        },
+        "github.com/xanzy/go-gitlab": {
+            "branch": "master"
+        },
+        "golang.org/x/oauth2": {
+            "branch": "master"
+        },
+        "gopkg.in/robfig/cron.v2": {
+            "branch": "v2"
+        },
+        "gopkg.in/yaml.v2": {
+            "branch": "v2"
+        }
+    }
+}
