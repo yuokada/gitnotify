@@ -168,8 +168,8 @@
         },
         {
             "name": "gopkg.in/gomail.v2",
-            "version": "2.0.0",
-            "revision": "41f3572897373c5538c50a2402db15db079fa4fd",
+            "branch": "v2",
+            "revision": "81ebce5c23dfd25c6c67194b37d3dd3f338c98b1",
             "packages": [
                 "."
             ]
